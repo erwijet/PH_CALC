@@ -94,7 +94,6 @@ Normal
 
 "Clean registries
 DelVar [A]
-DelVar X
 DelVar I
 DelVar D
 DelVar Str1
